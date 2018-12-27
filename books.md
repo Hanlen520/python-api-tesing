@@ -2,7 +2,7 @@
  * [电影 视频 下载](https://github.com/china-testing/python-api-tesing/blob/master/videos.md)
  * [IT类书籍 下载](https://github.com/china-testing/python-api-tesing/blob/master/books.md)
 
-
+今日头条极速版看新闻可以赚钱，邀请码DBG8ADUK
 
 
    * [书籍](#书籍)
@@ -30,8 +30,10 @@
             * [NumPy](#numpy)
             * [爬虫](#爬虫)
          * [机器学习](#机器学习)
+         * [Network](#Network)		 
          * [UI](#ui)
          * [其他](#其他)
+         * [数据结构](#数据结构)		 
          * [PYTHON图像处理](#python图像处理)
             * [opencv](#opencv)
             * [python图像其他](#python图像其他)
@@ -325,6 +327,29 @@
 
 ## python
 
+
+ [python数据结构基础工具书籍下载-持续更新](https://china-testing.github.io/python_structure_books.html)
+
+[2018最佳人工智能机器学习工具书籍及下载(持续更新)](https://china-testing.github.io/ai_books.html)
+
+ [2018最佳人工智能图像处理工具OpenCV书籍下载](https://china-testing.github.io/opencv_books.html)
+
+[web开发工具flask中文英文书籍下载-持续更新](https://china-testing.github.io/flask_books.html)
+
+[python网络基础工具书籍下载-持续更新](https://china-testing.github.io/python_network_books.html)
+
+ [python 3.7极速入门教程9最佳python中文工具书籍下载](https://china-testing.github.io/python3_quick9.html)
+
+[机器学习工具pytorch中文英文工具书籍下载-持续更新](https://china-testing.github.io/pytorch_books.html)
+
+[2018最佳selenium工具书籍汇总下载(持续更新)](https://china-testing.github.io/selnium_books.html)
+
+[python数据分析数据科学中文英文工具书籍下载-持续更新](https://china-testing.github.io/datas_books.html)
+
+[2018最佳人工智能数据采集(爬虫)工具书下载](https://china-testing.github.io/scrap_books.html)
+
+
+
 ### python基础
 
 [下面书籍下载地址](https://itbooks.pipipan.com/dir/18113597-29412023-2f185c/)
@@ -372,25 +397,34 @@ Daniel Arbuckle's Mastering Python - 2017.pdf
 
 #### flask
 
-* Flask Building Python Web Services - 2017 qq群144081101共享
+[web开发工具flask中文英文书籍下载-持续更新](https://china-testing.github.io/flask_books.html)
 
-* FlaskWeb开发：基于Python的Web应用开发实战 qq群144081101共享
 
-* Mastering Flask - 2015 qq群144081101共享
+[Flask Web开发实战：入门、进阶与原理解析 - 2018.pdf](https://itbooks.ctfile.com/fs/18113597-319371801)
 
-* 深入理解Flask - 2016 qq群144081101共享
+[Flask Web开发：基于Python的Web应用开发实战（第2版）- 2018.pdf](https://itbooks.ctfile.com/fs/18113597-319371799)
 
-* Flask Web Development 2nd - 2018.pdf qq群144081101共享
+[深入理解Flask - 2016.pdf](https://itbooks.ctfile.com/fs/18113597-319371589)
 
-* [The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)
+[The New And Improved Flask - 2018.pdf](https://itbooks.ctfile.com/fs/18113597-319371576)
 
-* [Flask Web Development-2014.pdf](http://file.allitebooks.com/20150530/Flask%20Web%20Development.pdf)
-* [Flask Blueprints-2015.pdf](http://file.allitebooks.com/20151216/Flask%20Blueprints.pdf)
-* [Flask Framework Cookbook-2014.pdf](http://file.allitebooks.com/20150514/Flask%20Framework%20Cookbook.pdf)
-* [Instant Flask Web Development-2013.pdf](http://file.allitebooks.com/20150731/Instant%20Flask%20Web%20Development.pdf)
-* [Building Web Applications with Flask-2015.pdf](http://file.allitebooks.com/20150708/Building%20Web%20Applications%20with%20Flask.pdf)
-* [Flask By Example-2016.pdf](http://file.allitebooks.com/20160416/Flask%20By%20Example.pdf)
-* [Learning Flask Framework-2015.rar](http://file.allitebooks.com/20160104/Learning%20Flask%20Framework.rar)
+[Python高效开发实战Django、Tornado、Flask、Twisted - 2016.pdf](https://itbooks.ctfile.com/fs/18113597-319371573)
+
+[Mastering Flask - 2015.pdf](https://itbooks.ctfile.com/fs/18113597-319371570)
+
+[Learning Flask Framework - 2015.pdf](https://itbooks.ctfile.com/fs/18113597-319371568)
+
+[Instant Flask Web Development - 2013.pdf](https://itbooks.ctfile.com/fs/18113597-319371561)
+
+[head first flask - 2016.pdf](https://itbooks.ctfile.com/fs/18113597-319371558)
+
+[Flask Web Development 2nd - 2018.pdf](https://itbooks.ctfile.com/fs/18113597-319371546)
+
+[Flask Building Python Web Services - 2017.pdf](https://itbooks.ctfile.com/fs/18113597-319371544)
+
+[Flask Blueprints - 2015.pdf](https://itbooks.ctfile.com/fs/18113597-319371537)
+
+[Building Web Applications with Flask - 2015.pdf](https://itbooks.ctfile.com/fs/18113597-319371534)
 
 #### Django
 
@@ -574,6 +608,35 @@ Test-Driven Development with Python, 2nd Edition - 2017 qq群144081101共享
 
 * [Artificial Intelligence for Robotics - 2018.pdf](https://itbooks.pipipan.com/fs/18113597-314071365)
 
+[深度学习之PyTorch实战计算机视觉 - 2018.pdf](https://itbooks.ctfile.com/fs/18113597-319170078)
+
+[深度学习之Pytorch - 2017.pdf](https://itbooks.ctfile.com/fs/18113597-319170048)
+
+[PyTorch深度学习实战 - 2017.pdf](https://itbooks.ctfile.com/fs/18113597-319169961)
+
+[Deep Learning with PyTorch - 2018.pdf](https://itbooks.ctfile.com/fs/18113597-319169959)
+
+[Deep Learning Toolkits II pytorch example - 2017.pdf](https://itbooks.ctfile.com/fs/18113597-319169958)
+
+
+### Network
+
+[Python Network Programming Cookbook, 2nd Edition - 2017.pdf](https://itbooks.pipipan.com/fs/18113597-321449040)
+
+[Practical Network Automation Leverage the power of Python and Ansible to optimize your network - 2017.pdf](https://itbooks.pipipan.com/fs/18113597-321449010)
+
+[Practical Network Automation - 2017.pdf](https://itbooks.pipipan.com/fs/18113597-321448989)
+
+[O'Reilly.Twisted.Network.Programming.Essentials.2nd.Edition.Mar.2013.pdf](https://itbooks.pipipan.com/fs/18113597-321448974)
+
+[Learning Python Network Programming - 2015.pdf](https://itbooks.pipipan.com/fs/18113597-321448971)
+
+[Foundations of Python Network Programming, 3rd Edition - 2014.pdf](https://itbooks.pipipan.com/fs/18113597-321448953)
+
+[Data Science and Complex Networks Real Case Studies with Python - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-321448942)
+
+[Complex Network Analysis in Python Recognize – Construct – Visualize – Analyze – Interpret - 2018.pdf](https://itbooks.pipipan.com/fs/18113597-321448935)
+
 ### UI
 
 * [wxPython Recipes - 2017.pdf](http://file.allitebooks.com/20171213/wxPython%20Recipes.pdf)
@@ -585,6 +648,37 @@ Test-Driven Development with Python, 2nd Edition - 2017 qq群144081101共享
 
 * [Pyside GUI Application Development, Second Edition-2016.pdf](http://file.allitebooks.com/20160213/Pyside%20GUI%20Application%20Development,%20Second%20Edition.pdf)
 
+### 数据结构
+
+[算法图解 \- 2017.pdf](https://itbooks.pipipan.com/fs/18113597-321523035)
+
+[数据结构与算法__Python语言描述-2015.pdf](https://itbooks.pipipan.com/fs/18113597-321523014)
+
+[Python算法教程 - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-321522934)
+
+[Python Data Structures and Algorithms - 2017.pdf](https://itbooks.pipipan.com/fs/18113597-321522888)
+
+[Python Algorithms, 2nd Edition 2014.pdf](https://itbooks.pipipan.com/fs/18113597-321522876)
+
+[Problem Solving with Algorithms and Data Structures Release 3.0 - 2013.pdf](https://itbooks.pipipan.com/fs/18113597-321522870)
+
+[Problem Solving in Data Structures and Algorithms Using Python - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-321522864)
+
+[Practical Programming An Introduction to Computer Science Using Python (Pragmatic Programmers) 2009.pdf](https://itbooks.pipipan.com/fs/18113597-321522846)
+
+[grokking algorithms - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-321522841)
+
+[Fundamentals of Python From First Programs Through Data Structures - 2010.pdf](https://itbooks.pipipan.com/fs/18113597-321522826)
+
+[Fundamentals of Python - Data Structures - 2014.pdf](https://itbooks.pipipan.com/fs/18113597-321522816)
+
+[Data Structures and Algorithms with Python(Springer,2015).pdf](https://itbooks.pipipan.com/fs/18113597-321522807)
+
+[Data Structures and Algorithms Using Python - 2011.pdf](https://itbooks.pipipan.com/fs/18113597-321522760)
+
+[Data Structures and Algorithms in Python - 2013.pdf](https://itbooks.pipipan.com/fs/18113597-321522744)
+
+[Data Structures And Algorithmic Thinking With Python - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-321522736)
 
 ### 其他
 
@@ -675,6 +769,8 @@ Test-Driven Development with Python, 2nd Edition - 2017 qq群144081101共享
 * OpenCV图像处理编程实例 - 2016.pdf qq群6089740
 
 * A Computational Introduction to Digital Image Processing, Second Edition -2016 qq群6089740
+
+[视觉SLAM十四讲：从理论到实践 - 2017.pdf](https://itbooks.ctfile.com/fs/18113597-317224017)
 
 文章：
 
@@ -771,6 +867,10 @@ Test-Driven Development with Python, 2nd Edition - 2017 qq群144081101共享
 [程序之美系列套装（6册）团队之美、项目管理之美、架构之美、数据之美、测试之美、安全之美 - 2015.pdf](https://itbooks.pipipan.com/fs/18113597-316096746)
 
 [Sample Exam Questions- ISTQB Foundation Level-Agile Tester Extension Exam - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-316096725)
+
+[Mobile Test Auto with Appium - 2017.pdf](https://itbooks.pipipan.com/fs/18113597-322413180)
+
+[Appium Recipes - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-322413178)
 
 * [Learning Android Application Testing-2015.pdf](http://file.allitebooks.com/20170415/Learning%20Android%20Application%20Testing.pdf)
 * [Effective Python Penetration Testing-2016.pdf](http://file.allitebooks.com/20170710/Effective%20Python%20Penetration%20Testing.pdf)

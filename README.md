@@ -42,6 +42,7 @@ tools目录：
  * [python测试开发自动化测试数据分析人工智能自学每周一练](https://china-testing.github.io/python_weeks.html)
  * [软件自动化测试初学者忠告](https://china-testing.github.io/testing_automation_tips.html)
 
+* 今日头条极速版看新闻可以赚钱，邀请码DBG8ADUK
 
 * 技术支持qq群： 144081101(后期会录制视频存在该群群文件) 591302926 567351477 钉钉免费群：21745728 
 
@@ -59,6 +60,7 @@ Table of Contents
       * [Windows UI测试自动化](#windows-ui测试自动化)
       * [UI测试](#ui测试)
       * [性能测试](#性能测试)
+      * [跨语言调用](#跨语言调用)
       * [测试框架](#测试框架)
       * [Mock](#mock)
       * [其他测试工具](#其他测试工具)
@@ -261,6 +263,13 @@ autopy、WATSUP、winGuiAuto因为较长时间未更新未收录
  * boom - 类似ab(ApacheBench)的性能测试工具。 [链接](https://github.com/tarekziade/boom) 
  
  
+## 跨语言调用
+
+ * [python库介绍-jpype：python到java桥](https://china-testing.github.io/python3_lib_jpype1.html)
+ * [python库介绍-pyjnius：访问java类](https://china-testing.github.io/python3_lib_pyjniu.html)
+ * [python3外部库boost介绍 用c++为python编写扩展](https://china-testing.github.io/python3_lib_boost.html) 
+ * [C++11和Python桥](https://github.com/pybind/pybind11) 
+ 
 
 ## 测试框架
 
@@ -376,6 +385,9 @@ radar 因为github星级太少而未收录 最近版本参见原文：https://gi
  * PyBuilder – 纯Python编写的持续构建工具。[链接](https://github.com/buildbot/buildbot/)
 
  * SCons – 软件构建工具。[链接](https://github.com/SCons/scons)
+ 
+ * jenkinsapi – Hudson & Jenkins python API。[链接](https://github.com/pycontribs/jenkinsapi)
+ 
 
 ## 测试工具对接
 
@@ -1216,7 +1228,7 @@ Python版本和环境管理
  * PyGObject：GLib/GObject/GIO/GTK+ (GTK+3) 的 Python 绑定。[链接](https://wiki.gnome.org/Projects/PyGObject)
  * Flexx：纯 Python编写的用来创建 GUI 程序的工具集，它使用 web 技术进行界面的展示。[链接](https://github.com/flexxui/flexx) 
 
-##游戏开发(Game Development)
+## 游戏开发(Game Development)
 
 
 * [Cocos2d](https://github.com/los-cocos/cocos) - cocos2d是用于构建2D游戏，演示和其他图形/交互式应用程序的框架。它基于pyglet。
@@ -1227,7 +1239,7 @@ Python版本和环境管理
 * [PySDL2](http://pysdl2.readthedocs.io/en/rel_0_9_5/) - SDL2库的基于ctypes的包装器。
 * [RenPy](https://github.com/renpy/renpy) - Visual Novel引擎。
 
-##地理位置(Geolocation)
+## 地理位置(Geolocation)
 
 *地理编码地址和纬度和经度的图书馆。*
 
@@ -1288,7 +1300,9 @@ Python版本和环境管理
 *用于处理图像的库。*
 
 
-*   [pillow](http://hao.jobbole.com/pillow/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/) -推荐
+*   [pillow](http://hao.jobbole.com/pillow/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/) -推荐 
+	[python库介绍-图像处理工具pillow中文文档-手册(2018 5.*)](https://china-testing.github.io/python3_lib_pil.html)
+	
 *   hmap：图像直方图映射。[官网](https://github.com/rossgoodwin/hmap)
 *   imgSeek：使用视觉相似性搜索一组图片集合的项目。[官网](https://sourceforge.net/projects/imgseek/) 较长时间没有更新
 *   nude.py：裸体检测。[官网](https://github.com/hhatto/nude.py)
